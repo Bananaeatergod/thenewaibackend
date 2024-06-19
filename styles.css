@@ -1,0 +1,13 @@
+/* Optional: Custom styling for search container */
+.search-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Optional: Additional styling for search results */
+#search-results {
+    margin-top: 20px;
+}
+
+/* Customize further as needed */
